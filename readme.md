@@ -55,4 +55,5 @@ A query can have one or more questions.
 ## Run the program
 
 Change the directory to the PythonLocal folder and run this command.
+
 ```... PythonLocal> python .\my.py```
