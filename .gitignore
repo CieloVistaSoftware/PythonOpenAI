@@ -1,0 +1,10 @@
+# Ignore virtual environment folder
+env/
+
+# Ignore build folder
+build/
+
+# Ignore other common files and folders
+__pycache__/
+*.pyc
+.DS_Store
